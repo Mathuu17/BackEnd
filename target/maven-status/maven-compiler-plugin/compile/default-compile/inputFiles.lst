@@ -42,3 +42,4 @@ M:\BackEnd\src\main\java\com\portafolio\lms\Security\Repository\IRolRepository.j
 M:\BackEnd\src\main\java\com\portafolio\lms\Security\jwt\JwtTokenFilter.java
 M:\BackEnd\src\main\java\com\portafolio\lms\Security\Repository\IUsuarioRepository.java
 M:\BackEnd\src\main\java\com\portafolio\lms\Security\Dto\NuevoUsuario.java
+M:\BackEnd\src\main\java\com\portafolio\lms\WebConfig.java

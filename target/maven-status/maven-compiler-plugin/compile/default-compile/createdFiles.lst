@@ -1,5 +1,6 @@
 com\portafolio\lms\Security\Entity\Usuario.class
 com\portafolio\lms\Security\Dto\NuevoUsuario.class
+com\portafolio\lms\WebConfig.class
 com\portafolio\lms\Service\ProyectoService.class
 com\portafolio\lms\Dto\PersonaDto.class
 com\portafolio\lms\Service\SkillService.class
